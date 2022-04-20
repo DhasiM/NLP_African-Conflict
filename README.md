@@ -1,4 +1,4 @@
-# Topic Modelling of Conflict on the African Continet from '97-'22
+# Topic Modelling of Conflict on the African Continent from '97-'22
 
 '[‘Little to lose’: Poverty and despair fuel South Africa’s unrest'](https://www.aljazeera.com/news/2021/7/14/little-to-lose-poverty-and-despair-fuel-south-africas-unrest) reads an Aljazeera headline published on 14 Jul 2021. Are these words just another attention grabbing headline to sell papers or is there some truth to it. Not just in South Africa but in the world as a whole. Does economic inequality fuel unrest? To anser this question would require a massive amount of data and computing power. What this project attemtps to do is scale down this question to soemthing a little easier to model in a few days - Is there a trend in the themes or topics of unrest acroos the African continent and do they at least have a linear relationship to a country's economic status? 
 
