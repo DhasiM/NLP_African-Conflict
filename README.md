@@ -16,7 +16,7 @@
 * [spaCY](https://spacy.io/)
 
 # Code
-> [Notebook]
+> [Notebook](https://github.com/DhasiM/NLP_Twist3/blob/main/twist-3-violence-protests-and-poverty.ipynb)
 
 # Some interesting plots
 
@@ -24,4 +24,4 @@
 > Kudos to these awesome tutorials and notebooks
 * [Topic Modelling with LSA and LDA](https://www.kaggle.com/code/rcushen/topic-modelling-with-lsa-and-lda/notebook)
 * [Clustering with Topic Modeling using LDA](https://www.kaggle.com/code/panks03/clustering-with-topic-modeling-using-lda/notebook#Topic-Modeling--Latent-Dirichlet-Allocation(LDA))
-* [NLP From A Time Series Perspective](https://towardsdatascience.com/nlp-from-a-time-series-perspective-39c37bc18156_
+* [NLP From A Time Series Perspective](https://towardsdatascience.com/nlp-from-a-time-series-perspective-39c37bc18156_)
